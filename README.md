@@ -1,5 +1,5 @@
 
-﻿# Awesome Krist [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Krist [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a collection of Resources for Krist, 'the Minable currency that works across servers', created by [3d6](https://github.com/0x3d6) and [Lemmmy](https://github.com/Lemmmy).
 
